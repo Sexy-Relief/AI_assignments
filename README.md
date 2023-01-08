@@ -1,6 +1,3 @@
-# AI_assignments
-Sogang univ AI assignments 1~4
-
 # Sogang Univ - AI
 
 서강대학교 기초인공지능 과제를 위한 repository
